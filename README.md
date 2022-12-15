@@ -1,4 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Ezra! <a href="https://www.linkedin.com/in/ezra-chisolm-84a7a325a/">IT Professional</a>
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- 
+
+<h2>📄 Certifications</h2>
+
+- [Google IT Support Professional]
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Ezra | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/ezra-chisolm-84a7a325a/
+[Google IT Support Professional]: https://www.coursera.org/account/accomplishments/professional-cert/3UNCCWCL2PHT
 
 <!--
 **ezchisolm/ezchisolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
