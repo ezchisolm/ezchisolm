@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ezra! <a href="https://www.linkedin.com/in/ezra-chisolm-84a7a325a/">IT Professional</a>
+<h1>Hi, I'm Ezra! IT Professional
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -9,10 +9,6 @@
 
 - [Google IT Support Professional]
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Ezra | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/ezra-chisolm-84a7a325a/
