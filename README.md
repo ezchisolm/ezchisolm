@@ -1,8 +1,10 @@
 <h1>Hi, I'm Ezra! <a href="https://www.linkedin.com/in/ezra-chisolm-84a7a325a/">IT Professional</a>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- 
-
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/ezchisolm/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/ezchisolm/osTicketPostConfiguration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ezchisolm/osTicket-LifeCycle-Examples)
 <h2>📄 Certifications</h2>
 
 - [Google IT Support Professional]
